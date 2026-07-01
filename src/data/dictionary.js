@@ -8,7 +8,7 @@ export const dictionary = {
     },
     hero: {
       greeting: "Hola, soy",
-      name: "Enrique Perez",
+      name: "Enrique Perez Sanchez",
       role: "Desarrollador Full Stack & Cloud Enthusiast",
       about: "Construyo soluciones de software escalables y eficientes. Apasionado por la arquitectura backend, el despliegue en la nube (AWS) y la creación de interfaces de usuario limpias. Transformo problemas complejos en código elegante y funcional.",
       viewProjects: "Ver Proyectos",
@@ -52,14 +52,14 @@ export const dictionary = {
       {
         title: "AWS Certified Cloud Practitioner",
         issuer: "Amazon Web Services",
-        status: "En progreso",
-        date: "2024"
+        status: "Aprovado",
+        date: "Julio 2026"
       },
       {
         title: "Java Full Stack Developer",
         issuer: "Generation México",
         status: "Completado",
-        date: "2023"
+        date: "Julio 2026"
       }
     ]
   },
@@ -139,7 +139,7 @@ export const commonData = {
     frontend: ["React", "JavaScript (ES6+)", "HTML5", "CSS3", "Tailwind CSS"],
     backend: ["Java", "Spring Boot", "Node.js","SQL"],
     cloud: ["AWS (EC2, S3, RDS)","Linux", "IAM Amazon"],
-    tools: ["Git", "GitHub", "IntelliJ IDEA", "WSL", "Visual Studio Code", "My SQL"]
+    tools: ["Git", "GitHub", "IntelliJ IDEA", "WSL", "Visual Studio Code", "MySQL", "Postman"]
 
   }
 };

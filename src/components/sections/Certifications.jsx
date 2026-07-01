@@ -21,7 +21,7 @@ export default function Certifications({ t }) {
                 <span className={`text-xs font-bold px-2 py-1 rounded-md ${
                   cert.status === 'Completado' || cert.status === 'Completed'
                     ? 'bg-emerald-100 text-emerald-700 dark:bg-emerald-500/10 dark:text-emerald-400 border border-emerald-200 dark:border-emerald-500/20' 
-                    : 'bg-amber-100 text-amber-700 dark:bg-amber-500/10 dark:text-amber-400 border border-amber-200 dark:border-amber-500/20'
+                    : 'bg-green-100 text-green-700 dark:bg-green-500/10 dark:text-green-400 border border-green-200 dark:border-green-500/20'
                 }`}>
                   {cert.status}
                 </span>
