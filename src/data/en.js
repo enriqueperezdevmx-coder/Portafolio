@@ -14,7 +14,9 @@ export const en = {
     skillsTitle: "Technical Skills",
     projectsTitle: "My Projects",
     certsTitle: "My Certifications",
-    contactTitle: "Get in Touch"
+    contactTitle: "Get in Touch",
+    code: "Code",
+    liveDemo: "Live Demo"
   },
   hero: {
     greeting: "Hi! I'm",
@@ -34,14 +36,16 @@ export const en = {
     {
       title: "Total Messaging - Syntax Logistics",
       description: "Digital platform for automated management of express shipments and last-mile local logistics. Connects businesses with local couriers, featuring instant quoting and dynamic tracking.",
-      tags: ["Java", "Spring Boot", "React", "MySQL", "Tailwind CSS"],
-      link: "#"
+      tech: ["Java", "Spring Boot", "React", "MySQL", "Tailwind CSS"],
+      repoLink: "https://github.com/enriqueperezdevmx-coder/syntax-logistics", 
+      demoLink: "#" 
     },
     {
       title: "SIMTI - Inventory System",
       description: "Inventory management system developed as an academic project. Implements full CRUD functionality and file handling for data persistence.",
-      tags: ["C++", "Data Structures", "OOP"],
-      link: "#"
+      tech: ["C++", "Data Structures", "OOP"],
+      repoLink: "https://github.com/enriqueperezdevmx-coder/simti", 
+      demoLink: "#" 
     }
   ],
   certifications: [

@@ -14,13 +14,13 @@ export default function Projects({ t }) {
           <div key={index} className="bg-white dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 rounded-xl p-6 hover:border-blue-500 transition-colors flex flex-col shadow-sm dark:shadow-none">
             <h3 className="text-xl font-bold mb-3 text-slate-900 dark:text-white">{project.title}</h3>
             <p className="text-slate-600 dark:text-slate-400 text-sm mb-6 flex-grow">{project.description}</p>
-            <div className="flex flex-wrap gap-2 mb-6">
+            <ddame iv className="flex flex-wrap gap-2 mb-6">
               {project.tech.map((tech, i) => (
                 <span key={i} className="bg-blue-50 text-blue-700 dark:bg-slate-700/50 dark:text-blue-300 text-xs font-medium px-2.5 py-1 rounded-md border border-blue-100 dark:border-transparent">
                   {tech}
                 </span>
               ))}
-            </div>
+            </ddame>
             <div className="flex gap-4 pt-4 border-t border-slate-100 dark:border-slate-700">
               <a href={project.repoLink} className="flex items-center gap-2 text-sm text-slate-600 hover:text-blue-600 dark:text-slate-300 dark:hover:text-white transition-colors font-medium">
                 <GithubIcon size={16} /> {t.sections.code}

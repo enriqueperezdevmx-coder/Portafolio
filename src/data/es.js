@@ -14,7 +14,9 @@ export const es = {
     skillsTitle: "Habilidades Técnicas",
     projectsTitle: "Mis Proyectos",
     certsTitle: "Mis Certificaciones",
-    contactTitle: "Contáctame"
+    contactTitle: "Contáctame",
+    code: "Código", // Agregado para el botón
+    liveDemo: "Demo en vivo" // Agregado para el botón
   },
   hero: {
     greeting: "¡Hola! Soy",
@@ -34,14 +36,16 @@ export const es = {
     {
       title: "Mensajería Total - Syntax Logistics",
       description: "Plataforma digital para la gestión automatizada de envíos express y logística local de última milla. Conecta negocios con mensajeros locales, permitiendo cotizaciones instantáneas y rastreo dinámico.",
-      tags: ["Java", "Spring Boot", "React", "MySQL", "Tailwind CSS"],
-      link: "#" 
+      tech: ["Java", "Spring Boot", "React", "MySQL", "Tailwind CSS"], // Corregido a 'tech'
+      repoLink: "https://github.com/enriqueperezdevmx-coder/syntax-logistics", // Corregido
+      demoLink: "#" // Corregido
     },
     {
       title: "SIMTI - Sistema de Inventario",
       description: "Sistema de gestión de inventarios desarrollado como proyecto académico. Implementa funciones CRUD completas y manejo de archivos para la persistencia de datos.",
-      tags: ["C++", "Estructuras de Datos", "POO"],
-      link: "#"
+      tech: ["C++", "Estructuras de Datos", "POO"], // Corregido a 'tech'
+      repoLink: "https://github.com/enriqueperezdevmx-coder/simti", // Corregido
+      demoLink: "#" // Corregido
     }
   ],
   certifications: [
