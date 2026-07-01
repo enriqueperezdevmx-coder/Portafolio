@@ -19,12 +19,15 @@ export const en = {
     liveDemo: "Live Demo"
   },
   hero: {
-    greeting: "Hi! I'm",
+    greeting: "Hi, I'm",
+    name: "Enrique Pérez Sánchez",
+    badge: "Available for new projects",
     role: "Java Full Stack Developer",
     description: "Junior Developer focused on building scalable web applications and cloud solutions. I handle backend development with Java and build infrastructure within the AWS ecosystem.",
     cta: "View Projects",
     contact: "Let's Talk"
   },
+  
   about: {
     paragraphs: [
       "I'm Enrique Pérez Sánchez, a developer from Mexico City focused on learning pure programming logic and designing stable architectures.",

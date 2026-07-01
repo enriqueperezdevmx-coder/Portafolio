@@ -18,8 +18,10 @@ export const es = {
     code: "Código", // Agregado para el botón
     liveDemo: "Demo en vivo" // Agregado para el botón
   },
-  hero: {
-    greeting: "¡Hola! Soy",
+ hero: {
+    greeting: "Hola, soy",
+    name: "Enrique Pérez Sánchez",
+    badge: "Disponible para nuevos proyectos",
     role: "Desarrollador Java Full Stack",
     description: "Desarrollador Junior enfocado en la creación de aplicaciones web escalables y soluciones en la nube. Desarrollo el backend con Java y construyo infraestructura en el ecosistema de AWS.",
     cta: "Ver Proyectos",
