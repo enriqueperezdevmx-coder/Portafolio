@@ -38,8 +38,8 @@ export const es = {
     {
       title: "Mensajería Total - Syntax Logistics",
       description: "Plataforma digital para la gestión automatizada de envíos express y logística local de última milla. Conecta negocios con mensajeros locales, permitiendo cotizaciones instantáneas y rastreo dinámico.",
-      tech: ["Java", "Spring Boot", "React", "MySQL", "Tailwind CSS"], // Corregido a 'tech'
-      repoLink: "https://github.com/enriqueperezdevmx-coder/syntax-logistics", // Corregido
+      tech: ["Java", "Spring Boot", "HTML", "MySQL", "CSS", "JavaScript", ], // Corregido a 'tech'
+      repoLink: "https://github.com/enriqueperezdevmx-coder/Equipo_Syntax_Error.git", // Corregido
       demoLink: "#" // Corregido
     },
     {
