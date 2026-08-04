@@ -38,9 +38,10 @@ export const es = {
     {
       title: "Mensajería Total - Syntax Logistics",
       description: "Plataforma digital para la gestión automatizada de envíos express y logística local de última milla. Conecta negocios con mensajeros locales, permitiendo cotizaciones instantáneas y rastreo dinámico.",
+      image:"/videos/mensajeria_total.gif",
       tech: ["Java", "Spring Boot", "HTML", "MySQL", "CSS", "JavaScript", ], // Corregido a 'tech'
       repoLink: "https://github.com/enriqueperezdevmx-coder/Equipo_Syntax_Error.git", // Corregido
-      demoLink: "#" // Corregido
+      demoLink: "/videos/mensajeria_total.mp4" // Corregido
     },
     {
       title: "SIMTI - Sistema de Inventario",
