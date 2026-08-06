@@ -39,12 +39,20 @@ export const es = {
       title: "Mensajería Total - Syntax Logistics",
       description: "Plataforma digital para la gestión automatizada de envíos express y logística local de última milla. Conecta negocios con mensajeros locales, permitiendo cotizaciones instantáneas y rastreo dinámico.",
       image:"./videos/mensajeria_total.gif",
-      tech: ["Java", "Spring Boot", "HTML", "MySQL", "CSS", "JavaScript", ], // Corregido a 'tech'
+      tech: ["Java", "Spring Boot", "HTML5", "MySQL", "CSS", "JavaScript", ], // Corregido a 'tech'
       repoLink: "https://github.com/enriqueperezdevmx-coder/Equipo_Syntax_Error.git", // Corregido
       demoLink: "./videos/mensajeria_total.mp4" // Corregido
     },
     {
-      title: "SIMTI - Sistema de Inventario",
+      title: "JavaSport - Tienda de E-commerce ",
+      description: "Plataforma e-commerce para artículos deportivos con carrito dinámico y persistencia de datos.",
+      image: "./videos/javaSport .gif",
+      tech: ["HTML5", "CSS3", "JavaScript", "Bootstrap 5"], // Corregido a 'tech'
+      repoLink: "https://github.com/joseisraelmanriquer-dev/Javasport.git", // Corregido
+      demoLink: "./videos/JavaSport.mp4" // Corregido
+    },
+    {
+      title: " Agenda Java  ",
       description: "Sistema de gestión de inventarios desarrollado como proyecto académico. Implementa funciones CRUD completas y manejo de archivos para la persistencia de datos.",
       tech: ["C++", "Estructuras de Datos", "POO"], // Corregido a 'tech'
       repoLink: "https://github.com/enriqueperezdevmx-coder/simti", // Corregido
@@ -55,7 +63,7 @@ export const es = {
     {
       title: "Java Full Stack Developer Bootcamp",
       issuer: "Generation México",
-      status: "En curso",
+      status: "Concluido",
       date: "2026"
     },
     {
