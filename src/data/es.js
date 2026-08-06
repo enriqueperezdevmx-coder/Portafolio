@@ -45,11 +45,11 @@ export const es = {
     },
     {
       title: "JavaSport - Tienda de E-commerce ",
-      description: "Sistema de gestión de inventarios desarrollado como proyecto académico. Implementa funciones CRUD completas y manejo de archivos para la persistencia de datos.",
-      image: "./videos/javaSport.gif",
-      tech: ["HTML5", "CSS3", "JavaScrip", "Bootstrap 5"], // Corregido a 'tech'
+      description: "Plataforma e-commerce para artículos deportivos con carrito dinámico y persistencia de datos.",
+      image: "./videos/javaSport .gif",
+      tech: ["HTML5", "CSS3", "JavaScript", "Bootstrap 5"], // Corregido a 'tech'
       repoLink: "https://github.com/joseisraelmanriquer-dev/Javasport.git", // Corregido
-      demoLink: "#" // Corregido
+      demoLink: "./videos/JavaSport.mp4" // Corregido
     },
     {
       title: " Agenda Java  ",
